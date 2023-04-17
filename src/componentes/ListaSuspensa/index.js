@@ -1,4 +1,4 @@
-import './ListaSuspensa'
+import './ListaSuspensa.css'
 
 const ListaSuspensa = (props) => {
     console.log(props.itens)
