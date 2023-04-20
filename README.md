@@ -7,7 +7,7 @@
 * [x] Dando funções aos componentes;
 * [x] Correção de bug das cores do card;
 * [x] Correção de bugs;
-* [] Readme;
+* [x] Readme;
 
 ### Meu primeiro projeto utilizando *React* seguindo o curso da ALURA e da Oracle ONE.
 
@@ -15,6 +15,16 @@ Nele utilizei componentes React, useState, props, entre outros elementos e tecno
 
 Para esse primeiro projeto React preferi fazer fiel ao curso, para depois estar fazendo utilizando os conhecimentos um organo da minha forma.
 
+**Imagens:**
+
+![Imagem desktop 1](/public/imagens/imagem1.jpeg)
+
+![Imagem desktop 2](/public/imagens/imagem2.jpeg)
+
+![Imagem desktop 3](/public/imagens/imagem3.jpeg)
+
+![Imagem desktop 4](/public/imagens/imagem4.jpeg)
 
 
-[Deploy]()
+
+[Deploy](organo-gustavobryan.vercel.app)
