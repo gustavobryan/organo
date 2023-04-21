@@ -7,6 +7,7 @@
 * [x] Dando funções aos componentes;
 * [x] Correção de bug das cores do card;
 * [x] Correção de bugs;
+* [] Mudanças no projeto ++
 * [x] Readme;
 
 ### Meu primeiro projeto utilizando *React* seguindo o curso da ALURA e da Oracle ONE.
